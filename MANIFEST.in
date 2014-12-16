@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include dgi_forms *.css
+recursive-include dgi_forms *.csv
+recursive-include dgi_forms *.html
+recursive-include dgi_forms *.ico
+recursive-include dgi_forms *.js
+recursive-include dgi_forms *.json
+recursive-include dgi_forms *.md
+recursive-include dgi_forms *.png
+recursive-include dgi_forms *.py
+recursive-include dgi_forms *.svg
+recursive-include dgi_forms *.txt
+recursive-exclude dgi_forms *.pyc
