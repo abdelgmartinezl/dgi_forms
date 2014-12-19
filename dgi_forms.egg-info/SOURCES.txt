@@ -16,6 +16,12 @@ dgi_forms.egg-info/top_level.txt
 dgi_forms/config/__init__.py
 dgi_forms/config/desktop.py
 dgi_forms/dgi_forms/__init__.py
+dgi_forms/dgi_forms/doctype/__init__.py
+dgi_forms/dgi_forms/doctype/anexo_94/__init__.py
+dgi_forms/dgi_forms/doctype/anexo_94/anexo_94.json
+dgi_forms/dgi_forms/doctype/anexo_94/anexo_94.py
+dgi_forms/dgi_forms/doctype/anexo_94/test_anexo_94.py
+dgi_forms/dgi_forms/doctype/anexo_94/test_records.json
 dgi_forms/templates/__init__.py
 dgi_forms/templates/generators/__init__.py
 dgi_forms/templates/pages/__init__.py
